@@ -167,6 +167,26 @@
         "type": "github"
       }
     },
+    "flake-updates": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1701446494,
+        "narHash": "sha256-Uo3ZvFqyeoNyR+oCswMK8oR3QIFYab0TuX46mySXt8o=",
+        "owner": "marcuswhybrow",
+        "repo": "flake-updates",
+        "rev": "db80aa8ee1c429dc02dbb88b798b5104bf3d172b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "marcuswhybrow",
+        "repo": "flake-updates",
+        "type": "github"
+      }
+    },
     "git": {
       "inputs": {
         "neovim": [
@@ -334,9 +354,7 @@
     },
     "nixpkgs-updates": {
       "inputs": {
-        "nixpkgs": [
-          "nixpkgs"
-        ]
+        "nixpkgs": "nixpkgs_4"
       },
       "locked": {
         "lastModified": 1701380643,
@@ -385,6 +403,22 @@
       }
     },
     "nixpkgs_4": {
+      "locked": {
+        "lastModified": 1700794826,
+        "narHash": "sha256-RyJTnTNKhO0yqRpDISk03I/4A67/dp96YRxc86YOPgU=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "5a09cb4b393d58f9ed0d9ca1555016a8543c2ac8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_5": {
       "locked": {
         "lastModified": 1701068326,
         "narHash": "sha256-vmMceA+q6hG1yrjb+MP8T0YFDQIrW3bl45e7z24IEts=",
@@ -463,7 +497,7 @@
     },
     "rofi_3": {
       "inputs": {
-        "nixpkgs": "nixpkgs_4"
+        "nixpkgs": "nixpkgs_5"
       },
       "locked": {
         "lastModified": 1701355524,
@@ -488,13 +522,13 @@
         "brightness": "brightness",
         "dunst": "dunst",
         "fish": "fish",
+        "flake-updates": "flake-updates",
         "git": "git",
         "hyprland": "hyprland",
         "logout": "logout",
         "neovim": "neovim",
         "networking": "networking",
         "nixpkgs": "nixpkgs",
-        "nixpkgs-updates": "nixpkgs-updates",
         "private": "private",
         "rofi": "rofi",
         "starship": "starship",
@@ -620,9 +654,7 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "nixpkgs-updates": [
-          "nixpkgs-updates"
-        ],
+        "nixpkgs-updates": "nixpkgs-updates",
         "rofi": "rofi_3"
       },
       "locked": {

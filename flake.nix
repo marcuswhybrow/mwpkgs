@@ -44,6 +44,10 @@
         starship.follows = "starship";
       };
     };
+    flake-updates = {
+      url = "github:marcuswhybrow/flake-updates";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
     git = {
       url = "github:marcuswhybrow/git";
       inputs = {
@@ -83,10 +87,6 @@
       };
     };
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    nixpkgs-updates = {
-      url = "github:marcuswhybrow/nixpkgs-updates";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
     private = {
       url = "github:marcuswhybrow/private";
       inputs = {
@@ -131,7 +131,7 @@
       inputs = {
         nixpkgs.follows = "nixpkgs";
         networking.follows = "networking";
-        nixpkgs-updates.follows = "nixpkgs-updates";
+        flake-updates.follows = "flake-updates";
         alacritty.follows = "alacritty";
       };
     };
