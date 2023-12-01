@@ -153,7 +153,7 @@
       neovim = inputs.neovim.packages.x86_64-linux.nvim;
       neovim-no-lsp = inputs.neovim.packages.x86_64-linux.nvim-no-lsp;
       networking = inputs.networking.packages.x86_64-linux.networking;
-      nixpkgs-updates = inputs.nixpkgs-updates.packages.x86_64-linux.nixpkgs-updates;
+      flake-updates = inputs.flake-updates.packages.x86_64-linux.flake-updates;
       private = inputs.private.packages.x86_64-linux.private;
       starship = inputs.starship.packages.x86_64-linux.starship;
       sway = inputs.sway.packages.x86_64-linux.sway;
