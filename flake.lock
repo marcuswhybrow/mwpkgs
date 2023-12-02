@@ -2215,11 +2215,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1701477593,
-        "narHash": "sha256-1BPsOKn9Z8MYUABduNwiX1ZVx/A4fZiQLJJuRC2D3/8=",
+        "lastModified": 1701524598,
+        "narHash": "sha256-gSC0NemG9kCuatJ0RSoHo1todZvWJDTR3xh0eQ4I1U0=",
         "owner": "marcuswhybrow",
         "repo": "waybar",
-        "rev": "ab3d5859dac0a2c58f37d94b20ccda5a1dbb2885",
+        "rev": "f362ca663fa490807e55c6fadcddd296ff467dfd",
         "type": "github"
       },
       "original": {
