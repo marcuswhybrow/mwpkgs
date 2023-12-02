@@ -128,12 +128,7 @@
     };
     waybar = {
       url = "github:marcuswhybrow/waybar";
-      inputs = {
-        nixpkgs.follows = "nixpkgs";
-        networking.follows = "networking";
-        flake-updates.follows = "flake-updates";
-        alacritty.follows = "alacritty";
-      };
+      inputs.nixpkgs.follows = "nixpkgs";
     };
   };
 
