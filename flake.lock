@@ -1278,11 +1278,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1701989433,
-        "narHash": "sha256-PKSisCKVwfI//6WkeaRBeKpiQv1j0x8nemrOQGmA8Ek=",
+        "lastModified": 1702005488,
+        "narHash": "sha256-gbDHogpeOV9FtVMKvLegzXX4Bv4Ntu86To9YBY88r/g=",
         "owner": "marcuswhybrow",
         "repo": "neovim",
-        "rev": "65b9ba630667db35908e04627c86a448589b41c3",
+        "rev": "be802a63411fc9ade4c24c82d7ccab12a29091aa",
         "type": "github"
       },
       "original": {
