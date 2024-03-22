@@ -1390,11 +1390,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1707953031,
-        "narHash": "sha256-BkMEjcC5YCw07DWpKeF8a+ssEMkqDYy0VhlQ42ilCFg=",
+        "lastModified": 1711115593,
+        "narHash": "sha256-TYKP2o+GAsd/KWvPpgjILQIn6Hr7xmM9YiLWRYDp2Mw=",
         "owner": "marcuswhybrow",
         "repo": "hyprland",
-        "rev": "03258d0a9dde7a35116ddbe19c2d6c45ca821486",
+        "rev": "53f52d87da25e5165bc96ab16902263d27d5f729",
         "type": "github"
       },
       "original": {
