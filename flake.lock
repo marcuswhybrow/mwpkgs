@@ -3190,11 +3190,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1712519878,
-        "narHash": "sha256-/0LPtSbxaHlTtSZdLoTG4ToA3CFF9YiE165d3N0GNos=",
+        "lastModified": 1712520242,
+        "narHash": "sha256-1ZO5huWy8UHHOjCenNck139KH/QLjDDtclO6mJLwrJU=",
         "owner": "marcuswhybrow",
         "repo": "waybar",
-        "rev": "ce31c66fb90a0031f8cd06672accf8d5866ce2a0",
+        "rev": "e09573b8aebe29d8e680c03aeb9d7c3aabc3d160",
         "type": "github"
       },
       "original": {
