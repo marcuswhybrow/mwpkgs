@@ -2984,11 +2984,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1701358245,
-        "narHash": "sha256-7JWFBkGAvW4ZBKwsw/KIvRWPXjLckFIPnKMBMTww0SE=",
+        "lastModified": 1713478327,
+        "narHash": "sha256-/ml9XPkLBYzn+Gpn/6zBvZUD9AkLz1iqmqg60U7Of24=",
         "owner": "marcuswhybrow",
         "repo": "tmux",
-        "rev": "7e5ee763112d543d8302dd5a94675ecca4436a5f",
+        "rev": "acd106e060e554820bf3f8d89036ee391e76e801",
         "type": "github"
       },
       "original": {
