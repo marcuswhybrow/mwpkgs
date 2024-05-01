@@ -39,9 +39,6 @@
       url = "github:marcuswhybrow/fish";
       inputs = {
         nixpkgs.follows = "nixpkgs";
-        neovim.follows = "neovim";
-        git.follows = "git";
-        starship.follows = "starship";
       };
     };
     flake-updates = {
