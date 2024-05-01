@@ -1026,11 +1026,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1701476067,
-        "narHash": "sha256-CsESLXZTViWKigunvu8NpX8JtDbEcse0iPWX2vLoagQ=",
+        "lastModified": 1714568986,
+        "narHash": "sha256-+i7HfYSafCO8jPuXX+KJ7UT7sAtYb+hxgqbCM606xv4=",
         "owner": "marcuswhybrow",
         "repo": "flake-updates",
-        "rev": "949939aede2ec984086049da23adfb2428375072",
+        "rev": "41dd3aa25cee35bb397ac588264c79b6ec4cacda",
         "type": "github"
       },
       "original": {
