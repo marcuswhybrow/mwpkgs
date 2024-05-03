@@ -1694,11 +1694,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714733879,
-        "narHash": "sha256-1Rkh6G4sHSoWmB6Ir0QGNAoyycHGw5lI46Ba0HyY9ZA=",
+        "lastModified": 1714735021,
+        "narHash": "sha256-Ywv9w9HRYSSvjqJxGDM8+WdP2M3DeuOwpTapOddwIyc=",
         "owner": "marcuswhybrow",
         "repo": "fish",
-        "rev": "abf6b21cc6dec525bad79e7648c3cdd0412856d0",
+        "rev": "4e6c3e157010f30ac925fedcb21eefa37c664d6f",
         "type": "github"
       },
       "original": {
@@ -5549,11 +5549,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1701710791,
-        "narHash": "sha256-PoYDEWSBRJHZlutQO7a5UurX+KM6JtEwh0B7GdxnQNo=",
+        "lastModified": 1714734684,
+        "narHash": "sha256-aMwu0KtQOiSOhEGbPVf+1ZEdcPLclYnW0+xaEZYpqPA=",
         "owner": "marcuswhybrow",
         "repo": "starship",
-        "rev": "18dda81ab2e7f5e4029534b7e5bbd7d31b0d5b7c",
+        "rev": "043b68738491eabe3251ffe5df522e34134589ff",
         "type": "github"
       },
       "original": {
