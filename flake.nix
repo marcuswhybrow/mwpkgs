@@ -54,16 +54,7 @@
     };
     hyprland = {
       url = "github:marcuswhybrow/hyprland";
-      inputs = {
-        alacritty.follows = "alacritty";
-        brightness.follows = "brightness";
-        logout.follows = "logout";
-        nixpkgs.follows = "nixpkgs";
-        private.follows = "private";
-        rofi.follows = "rofi";
-        volume.follows = "volume";
-        waybar.follows = "waybar";
-      };
+      inputs.nixpkgs.follows = "nixpkgs";
     };
     logout= {
       url = "github:marcuswhybrow/logout";
