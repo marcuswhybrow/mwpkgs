@@ -1694,11 +1694,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714735021,
-        "narHash": "sha256-Ywv9w9HRYSSvjqJxGDM8+WdP2M3DeuOwpTapOddwIyc=",
+        "lastModified": 1714736394,
+        "narHash": "sha256-Rp9nniGmWg6caKnXgF5mLWSaWD/OXzgrWJe87W4TKuI=",
         "owner": "marcuswhybrow",
         "repo": "fish",
-        "rev": "4e6c3e157010f30ac925fedcb21eefa37c664d6f",
+        "rev": "c52f0c31b5e0aff9b43b3e5ba0f12b97fe665577",
         "type": "github"
       },
       "original": {
