@@ -142,7 +142,6 @@
       starship = inputs.starship.packages.x86_64-linux.starship;
       sway = inputs.sway.packages.x86_64-linux.sway;
       tmux = inputs.tmux.packages.x86_64-linux.tmux;
-      tmux-fish-abbreviations = inputs.tmux.packages.x86_64-linux.fish-abbreviations;
       rofi = inputs.rofi.packages.x86_64-linux.rofi;
       volume = inputs.volume.packages.x86_64-linux.volume;
       waybar = inputs.waybar.packages.x86_64-linux.waybar;

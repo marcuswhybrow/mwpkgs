@@ -13470,11 +13470,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714733844,
-        "narHash": "sha256-xLqJV84c4myzC3h/1Y1j+46AGSO6R9HXsxwJdCBMZow=",
+        "lastModified": 1714840277,
+        "narHash": "sha256-NzZ3sChZy3e4ogs/wNPgM6GofUYuzayThgTr93ubAOk=",
         "owner": "marcuswhybrow",
         "repo": "tmux",
-        "rev": "99c31588c032c0d3319df7d56d09d3c3e988b4a8",
+        "rev": "a32caa9c7ed0f6a622d1a0a8b5c5ee2cae19cbd2",
         "type": "github"
       },
       "original": {
