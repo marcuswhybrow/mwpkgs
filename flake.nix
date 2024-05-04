@@ -136,7 +136,6 @@
       logout = inputs.logout.packages.x86_64-linux.logout;
       neovim = inputs.neovim.packages.x86_64-linux.nvim;
       neovim-no-lsp = inputs.neovim.packages.x86_64-linux.nvim-no-lsp;
-      neovim-fish-abbreviations = inputs.neovim.packages.x86_64-linux.fish-abbreviations;
       networking = inputs.networking.packages.x86_64-linux.networking;
       flake-updates = inputs.flake-updates.packages.x86_64-linux.flake-updates;
       private = inputs.private.packages.x86_64-linux.private;

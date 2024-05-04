@@ -8701,11 +8701,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714733946,
-        "narHash": "sha256-BYYqZkyKU73+NUEcb5JTYlReK2mJNNtsFp+QLoDjajE=",
+        "lastModified": 1714839450,
+        "narHash": "sha256-no+yFx0Iy2N3+Fq3DDf0puH6xd8NQqemySzJ4SaD7n8=",
         "owner": "marcuswhybrow",
         "repo": "neovim",
-        "rev": "ebaaf9fefe384d38b277022ce687395a42d23abd",
+        "rev": "9f834ff866c0212b436063415ecf9d5316572f57",
         "type": "github"
       },
       "original": {
