@@ -5793,11 +5793,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714733999,
-        "narHash": "sha256-HmcLy5cDJ2HPM8kKmB9dWb65/xG6Ulur/i2BsJXNjpo=",
+        "lastModified": 1714841312,
+        "narHash": "sha256-0ywujjTl7/1z0yV37jYqWvx4VW7S0zArz6R2jyKIiCM=",
         "owner": "marcuswhybrow",
         "repo": "git",
-        "rev": "9b8d9a4f334e6dae51390b2d80fc9b1c04a7b75a",
+        "rev": "ba27d7dcc1342c060ccaa3dee6f560d74f61d26e",
         "type": "github"
       },
       "original": {
