@@ -4903,11 +4903,11 @@
         "rust-overlay": "rust-overlay_4"
       },
       "locked": {
-        "lastModified": 1714568986,
-        "narHash": "sha256-+i7HfYSafCO8jPuXX+KJ7UT7sAtYb+hxgqbCM606xv4=",
+        "lastModified": 1714814600,
+        "narHash": "sha256-sOVaUsDheCECq7YJiJuvyND3OidM6x0RApKkZb+/7/w=",
         "owner": "marcuswhybrow",
         "repo": "flake-updates",
-        "rev": "41dd3aa25cee35bb397ac588264c79b6ec4cacda",
+        "rev": "15ffa768204ef8ff9e041ce0211cca2d5c40c119",
         "type": "github"
       },
       "original": {
