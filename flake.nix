@@ -130,7 +130,6 @@
       dunst = inputs.dunst.packages.x86_64-linux.dunst;
       fish = inputs.fish.packages.x86_64-linux.fish;
       git = inputs.git.packages.x86_64-linux.git;
-      git-fish-abbreviations = inputs.git.packages.x86_64-linux.fish-abbreviations;
       hyprland = inputs.hyprland.packages.x86_64-linux.hyprland;
       hyprland-fish-auto-login = inputs.hyprland.packages.x86_64-linux.fish-auto-login;
       logout = inputs.logout.packages.x86_64-linux.logout;
