@@ -142,6 +142,7 @@
       sway = inputs.sway.packages.x86_64-linux.sway;
       tmux = inputs.tmux.packages.x86_64-linux.tmux;
       rofi = inputs.rofi.packages.x86_64-linux.rofi;
+      drun = inputs.rofi.packages.x86_64-linux.drun;
       volume = inputs.volume.packages.x86_64-linux.volume;
       waybar = inputs.waybar.packages.x86_64-linux.waybar;
     };
