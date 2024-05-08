@@ -56,7 +56,7 @@
       url = "github:marcuswhybrow/hyprland";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    logout= {
+    logout = {
       url = "github:marcuswhybrow/logout";
       inputs = {
         nixpkgs.follows = "nixpkgs";
