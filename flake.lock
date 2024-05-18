@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1711047588,
-        "narHash": "sha256-QjT1bpe3t/mnR8oe4IIaFikpB5CVlNZMfRuv7Ys31BA=",
+        "lastModified": 1716043563,
+        "narHash": "sha256-xXdgwVJJGjDtpv6eE8IFivwpnY9kPmHT/G/rwhFvNYc=",
         "owner": "marcuswhybrow",
         "repo": "alacritty",
-        "rev": "5d2375434ad91acc1997062813804696ee0bf428",
+        "rev": "60624dc95622eba1b0bae81f50c76745ce495883",
         "type": "github"
       },
       "original": {
